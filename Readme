@@ -1,0 +1,3 @@
+patch -p1 <file.diff>
+sudo nano config.h
+sudo make install
